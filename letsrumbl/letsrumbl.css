@@ -2,3 +2,72 @@
 .no-page-header{
 	background:purple !important;
 }
+.google-btn{
+    background:blue;
+    display:inline-block;
+}
+.ios-btn{
+    display:inline-block;
+    background:red;
+}
+
+
+
+.lr-btn{
+    display:inline-block;
+    background:black;
+    height:50px;
+    width:150px;
+    border-radius:5px;
+}
+
+
+
+.btn {
+    background:purple;
+    height:50px;
+    width:150px;
+    border-radius:5px;
+    font-weight:bolder;
+    color:white;
+    font-size:15px;
+}
+.cta-mobile{
+    display:block;
+}
+
+.headline{
+    font-weight:800 !important;
+    text-align:center;
+    font-family: Montserrat,HelveticaNeue,helvetica,arial,sans-serif;
+    letter-spacing: 7px !important;
+    font-size:8em !important;
+    margin-bottom:60px !important;
+    
+}
+
+.sub-headline{
+    font-weight:800 !important;
+    font-family: Montserrat,HelveticaNeue,helvetica,arial,sans-serif;
+    font-size:2em;
+    line-height:1.8em !important;
+    text-align:center;
+    letter-spacing:1px !important;
+}
+
+.mobile-headline{
+    font-weight:800 !important;
+    font-size:4em !important;
+    font-family: Montserrat,HelveticaNeue,helvetica,arial,sans-serif;
+    margin-bottom:30px !important;
+}
+
+.mobile-sub-headline{
+    font-weight:800 !important;
+    font-size:1.8em !important;
+    font-family: Montserrat,HelveticaNeue,helvetica,arial,sans-serif;
+    letter-spacing: 1px !important;
+    line-height:1.5em !important;
+}
+    
+
